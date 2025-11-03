@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Cinematic base */
+html, body, #root { height: 100%; background: #0b0b0f; color: #EAEAF2; }
+:root { --accent: #00FFCC; }
+
+
+/* smooth scrolling */
+html { scroll-behavior: smooth; }
+
+
+/* subtle grid background */
+.bg-grid {
+background-image: linear-gradient(rgba(255,255,255,0.06) 1px, transparent 1px),
+linear-gradient(90deg, rgba(255,255,255,0.06) 1px, transparent 1px);
+background-size: 32px 32px, 32px 32px;
+background-position: -1px -1px, -1px -1px;
+}
