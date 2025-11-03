@@ -39,19 +39,19 @@ const Contact = () => {
             <div className="flex items-center gap-4">
               <FaEnvelope className="text-[var(--accent)] text-xl" />
               <a href="mailto:hello@roshnikumari.com" className="text-gray-300">
-                hello@roshnikumari.com
+              Roshnikumari0810@gmail.com
               </a>
             </div>
             <div className="flex items-center gap-4">
               <FaPhoneAlt className="text-[var(--accent)] text-xl" />
               <a href="tel:+919876543210" className="text-gray-300">
-                +91 98765 43210
+                +91 920552939
               </a>
             </div>
             <div className="flex items-center gap-4">
               <FaLocationArrow className="text-[var(--accent)] text-xl" />
               <span className="text-gray-300">
-                Mumbai, India • Available Worldwide 🌍
+                New Delhi, India
               </span>
             </div>
           </motion.div>

@@ -9,32 +9,34 @@ const portfolioItems = [
   {
     title: "Cinematic Brand Edit",
     type: "video",
-    src: "https://cdn.coverr.co/videos/coverr-drone-over-manarola-4050/1080p.mp4",
-    thumb: "https://images.unsplash.com/photo-1515125520141-3e3b67bc90b4?q=80&w=1000",
+    src: "https://cdn.coverr.co/videos/coverr-taking-photos-with-a-polaroid-camera-87/1080p.mp4",
+    thumb: "https://cdn.coverr.co/videos/coverr-taking-photos-with-a-polaroid-camera-87/thumbnail?width=1000",
   },
   {
     title: "Music Promo Edit",
     type: "video",
-    src: "https://cdn.coverr.co/videos/coverr-starry-night-sky-7444/1080p.mp4",
-    thumb: "https://images.unsplash.com/photo-1518972559570-7cc1309f3222?q=80&w=1000",
+    src: "https://cdn.coverr.co/videos/coverr-pouring-coffee-into-a-mug-1176/1080p.mp4",
+    thumb: "https://cdn.coverr.co/videos/coverr-pouring-coffee-into-a-mug-1176/thumbnail?width=1000",
   },
   {
     title: "Logo Reveal Motion",
     type: "image",
-    src: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000",
+    src: "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1200",
   },
   {
     title: "Creative Poster Design",
     type: "image",
-    src: "https://images.unsplash.com/photo-1558655146-9f40138ed6c7?q=80&w=1000",
+    src: "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=1200",
   },
   {
     title: "Product Ad Edit",
     type: "video",
-    src: "https://cdn.coverr.co/videos/coverr-slicing-a-kiwi-7652/1080p.mp4",
-    thumb: "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?q=80&w=1000",
+    src: "https://cdn.coverr.co/videos/coverr-dog-lying-on-the-floor-3429/1080p.mp4",
+    thumb: "https://cdn.coverr.co/videos/coverr-dog-lying-on-the-floor-3429/thumbnail?width=1000",
   },
 ];
+
+
 
 const Portfolio = () => {
   const ref = useRef(null);

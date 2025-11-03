@@ -1,10 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { FaVideo, FaPaintBrush, FaShareAlt, FaMagic } from "react-icons/fa";
+import { FaVideo, FaPaintBrush, FaShareAlt, FaMagic, FaPencilAlt } from "react-icons/fa";
 
 const services = [
   {
-    title: "Cinematic Video Editing",
+    title: "Video Editing",
     icon: <FaVideo />,
     desc: "Story-driven edits with smooth transitions, pro cuts, color grading & sound design.",
   },
@@ -19,9 +19,9 @@ const services = [
     desc: "Content strategy, growth, insights & consistent brand transformation.",
   },
   {
-    title: "Motion Graphics & Effects",
-    icon: <FaMagic />,
-    desc: "Custom intros, typographic motion, YouTube openers & logo animations.",
+    title: "Content Writing",
+    icon: <FaPencilAlt/>,
+    desc: "Content strategy, growth, insights & consistent brand transformation.",
   },
 ];
 

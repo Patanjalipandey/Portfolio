@@ -39,11 +39,8 @@ export default function About() {
                     <ul className="about-reveal grid grid-cols-2 gap-3 text-sm text-gray-200/90">
                         <li className="rounded-lg border border-white/10 p-3">Premiere Pro</li>
                         <li className="rounded-lg border border-white/10 p-3">After Effects</li>
-                        <li className="rounded-lg border border-white/10 p-3">DaVinci Resolve</li>
                         <li className="rounded-lg border border-white/10 p-3">Photoshop</li>
-                        <li className="rounded-lg border border-white/10 p-3">Illustrator</li>
                         <li className="rounded-lg border border-white/10 p-3">Canva Pro</li>
-                        <li className="rounded-lg border border-white/10 p-3">Figma</li>
                         <li className="rounded-lg border border-white/10 p-3">Meta Business Suite</li>
                     </ul>
                 </div>
